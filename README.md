@@ -1,1 +1,1 @@
-# gmrig2.0
+active
