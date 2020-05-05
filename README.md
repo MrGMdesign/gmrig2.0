@@ -1,1 +1,1 @@
-available
+ban
